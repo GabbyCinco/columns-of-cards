@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box;
+  font-family: "Open Sans', sans-serif";
+  text-align: center;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h2 {
+  text-align: center;
+}
+
+div {
+  display: inline-block;
+  text-align: left;
+  width: 20%;
+}
