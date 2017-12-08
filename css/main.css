@@ -19,10 +19,10 @@ div {
   width: 23%;
 }
 
-div img {
+img {
   width: 100px;
   display: block;
-
+  margin: auto;
 }
 
 .book-1 {
