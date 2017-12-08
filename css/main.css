@@ -15,5 +15,32 @@ h2 {
 div {
   display: inline-block;
   text-align: left;
-  width: 20%;
+  font-size: .875rem;
+  width: 23%;
+}
+
+div img {
+  width: 100px;
+  display: block;
+
+}
+
+.book-1 {
+  background-color: #e2e2e2;
+  padding: .75rem;
+}
+
+.book-2 {
+  background-color: #ccc;
+  padding: .75rem;
+}
+
+.book-3 {
+  background-color: #aaa;
+  padding: .75rem;
+}
+
+.book-4 {
+  background-color: #999;
+  padding: .75rem;
 }
