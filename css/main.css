@@ -33,6 +33,22 @@ img {
   margin: auto;
 }
 
+h3 {
+  margin: 0 0 .2rem;
+}
+
+p {
+  margin: 0 0 .2rem;
+}
+
+a {
+  text-decoration: none;
+  background-color: #333;
+  color: #f2f2f2;
+  padding: .75rem;
+  border-radius: 7px;
+}
+
 .book-1 {
   background-color: #e2e2e2;
   padding: .75rem;
