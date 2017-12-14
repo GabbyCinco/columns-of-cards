@@ -41,12 +41,19 @@ p {
   margin: 0 0 .2rem;
 }
 
-a {
+.btn {
   text-decoration: none;
   background-color: #333;
   color: #f2f2f2;
+}
+
+.btn-small {
   padding: .75rem;
   border-radius: 7px;
+}
+
+.btn:hover {
+  background-color: #000;
 }
 
 .book-1 {
